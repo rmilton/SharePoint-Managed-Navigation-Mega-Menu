@@ -1,1 +1,1 @@
-"# SharePoint Managed Navigation Mega Menu" 
+# SharePoint Managed Navigation Mega Menu
